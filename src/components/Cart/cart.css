@@ -1,0 +1,16 @@
+.cart {
+  position: sticky;
+  width: 400px;
+  height: 400px;
+  overflow: auto !important;
+  border: 2px solid #ddd;
+  margin: 0 auto;
+  position: fixed;
+  z-index: 11;
+  right: 0;
+  top: 55px;
+  border-radius: 5px;
+}
+table {
+  color: #fff !important;
+}
